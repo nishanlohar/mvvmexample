@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MVVMDemo</string>
+
+    <!-- Splash Strings -->
+    <string name="splash_img_view">splash imgview</string>
+
+    <!-- Login String -->
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+
+
+
+
+</resources>
